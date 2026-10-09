@@ -1,0 +1,32 @@
+location_id,location_name,location_type,latitude,longitude,address,city
+LOC-000,Central Distribution Hub,warehouse,41.8781,-87.6298,"100 Logistics Blvd, Central Hub",Chicago
+LOC-001,West Loop Center,customer,41.83293,-87.43149,1924 West Loop Ave,West Loop
+LOC-002,River North Center,customer,41.96162,-87.58639,509 River North Ave,River North
+LOC-003,Lincoln Park Center,customer,41.75427,-87.78116,4606 Lincoln Park Ave,Lincoln Park
+LOC-004,Lakeview Center,customer,41.71901,-87.46868,4112 Lakeview Ave,Lakeview
+LOC-005,Hyde Park Center,customer,41.9145,-87.53825,3757 Hyde Park Ave,Hyde Park
+LOC-006,Pilsen Center,customer,41.70551,-87.42304,2386 Pilsen Ave,Pilsen
+LOC-007,Logan Square Center,customer,41.99778,-87.75637,1779 Logan Square Ave,Logan Square
+LOC-008,Wicker Park Center,customer,41.76356,-87.7691,9035 Wicker Park Ave,Wicker Park
+LOC-009,Bridgeport Center,customer,41.80763,-87.61891,1524 Bridgeport Ave,Bridgeport
+LOC-010,Uptown Center,customer,41.8536,-87.72166,9774 Uptown Ave,Uptown
+LOC-011,Rogers Park Center,customer,41.91837,-87.78842,7012 Rogers Park Ave,Rogers Park
+LOC-012,Evanston Center,customer,41.80327,-87.6886,620 Evanston Ave,Evanston
+LOC-013,Oak Park Center,customer,41.86229,-87.50432,588 Oak Park Ave,Oak Park
+LOC-014,Cicero Center,customer,41.76998,-87.62354,1635 Cicero Ave,Cicero
+LOC-015,Skokie Center,customer,41.91137,-87.82936,3682 Skokie Ave,Skokie
+LOC-016,Des Plaines Center,customer,41.91682,-87.77477,3911 Des Plaines Ave,Greater Chicago Area
+LOC-017,Schaumburg Center,customer,41.72152,-87.43229,8379 Schaumburg Ave,Greater Chicago Area
+LOC-018,Naperville Center,customer,42.04573,-87.49411,9963 Naperville Ave,Greater Chicago Area
+LOC-019,Aurora Center,customer,41.80776,-87.80682,534 Aurora Ave,Greater Chicago Area
+LOC-020,Joliet Center,customer,41.94442,-87.65613,9295 Joliet Ave,Greater Chicago Area
+LOC-021,Elgin Center,customer,41.74203,-87.63192,3357 Elgin Ave,Greater Chicago Area
+LOC-022,Waukegan Center,customer,41.71048,-87.4497,9028 Waukegan Ave,Greater Chicago Area
+LOC-023,Bolingbrook Center,customer,41.79126,-87.55829,6973 Bolingbrook Ave,Greater Chicago Area
+LOC-024,Arlington Heights Center,customer,41.81032,-87.62097,3711 Arlington Heights Ave,Greater Chicago Area
+LOC-025,Orland Park Center,customer,41.89492,-87.76846,7459 Orland Park Ave,Greater Chicago Area
+LOC-026,Hammond Center,customer,42.04715,-87.50874,9754 Hammond Ave,Greater Chicago Area
+LOC-027,Gary Center,customer,42.03632,-87.45608,4657 Gary Ave,Greater Chicago Area
+LOC-028,Wheaton Center,customer,41.91334,-87.44418,206 Wheaton Ave,Greater Chicago Area
+LOC-029,Downers Grove Center,customer,41.72996,-87.76357,2715 Downers Grove Ave,Greater Chicago Area
+LOC-030,Lombard Center,customer,41.71438,-87.70665,7024 Lombard Ave,Greater Chicago Area
