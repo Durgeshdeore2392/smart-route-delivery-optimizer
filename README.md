@@ -177,3 +177,6 @@ From the deterministic synthetic dataset (500 orders, 20 vehicles, 30 locations)
 
 ## 📜 License
 MIT License. Built for portfolio & educational demonstration.
+
+## 📜 link
+https://smart-route-delivery-optimizer-nwgpoxwpbzukr5eckzos2n.streamlit.app/
